@@ -16,5 +16,5 @@ It provides a user-friendly interface for performing both basic arithmetic and c
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/Easysoul1/scientific-calculator.git
 
